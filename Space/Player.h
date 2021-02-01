@@ -92,6 +92,9 @@ public:
 	bool AtkCheck;
 	bool AlphaCheck;
 
+	bool m_DamagedCheck;
+	int m_DamageTime;
+
 	float AtkTime;
 
 

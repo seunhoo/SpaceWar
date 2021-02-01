@@ -46,6 +46,9 @@ Player::Player()
 	
 	, Speed(7.f)
 	, PlayerHp(5)
+
+	,m_DamagedCheck(false)
+	,m_DamageTime(0)
 { 
 	
 
@@ -252,9 +255,23 @@ void Player::Update(float time)
 	ObjMgr->CollideCheak(this, "RipleItem");
 	ObjMgr->CollideCheak(this, "PassItem");
 	ObjMgr->CollideCheak(this, "BossPass");
-	ObjMgr->CollideCheak(this, "Monster");
-	ObjMgr->CollideCheak(this, "Boss");
 	ObjMgr->CollideCheak(this, "BossBullet");
+
+	if (m_DamagedCheck == false)
+	{
+		ObjMgr->CollideCheak(this, "Monster");
+		ObjMgr->CollideCheak(this, "Boss");
+	}
+	else if (m_DamagedCheck == true)
+	{
+		m_DamageTime++;
+		m_State->A -= 50;
+		if (m_DamageTime >= 100)
+		{
+			m_DamagedCheck = false;
+			m_DamageTime = 0;
+		}
+	}
 
 }
 
@@ -594,7 +611,9 @@ void Player::OnCollision(Object* obj, std::string tag)
 	}
 	if (tag == "Monster")
 	{
+
 		PlayerHp--;
+		m_DamagedCheck = true;
 	}
 
 	if (tag == "MonsterBullet")
