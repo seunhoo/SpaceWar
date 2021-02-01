@@ -1,0 +1,25 @@
+﻿  Animation.cpp
+C:\Users\HSH\Desktop\과제들\과제 2\Space\Animation.cpp(79,66): warning C4244:  '인수': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\HSH\Desktop\과제들\과제 2\Space\Animation.cpp(79,27): warning C4244:  '인수': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\HSH\Desktop\과제들\과제 2\Space\Animation.cpp(78,97): warning C4244:  '인수': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\HSH\Desktop\과제들\과제 2\Space\Animation.cpp(78,58): warning C4244:  '인수': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\HSH\Desktop\과제들\과제 2\Space\Animation.cpp(86,46): warning C4244:  '인수': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\HSH\Desktop\과제들\과제 2\Space\Animation.cpp(86,17): warning C4244:  '인수': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\HSH\Desktop\과제들\과제 2\Space\Animation.cpp(85,67): warning C4244:  '인수': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  App.cpp
+  CollisionMgr.cpp
+  Input.cpp
+  Object.cpp
+  ObjectMgr.cpp
+  Player.cpp
+  Renderer.cpp
+  ResourceMgr.cpp
+  SceneDirector.cpp
+  SceneMain.cpp
+  SoundMgr.cpp
+  Space.cpp
+  Sprite.cpp
+  TextFont.cpp
+  Texture.cpp
+C:\Users\HSH\Desktop\과제들\과제 2\Space\Animation.cpp(85,38): warning C4244:  '인수': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Space.vcxproj -> C:\Users\HSH\Desktop\과제들\과제 2\x64\Debug\Space.exe

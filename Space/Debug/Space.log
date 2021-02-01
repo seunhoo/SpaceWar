@@ -1,0 +1,88 @@
+﻿  stdafx.cpp
+  Animation.cpp
+C:\Users\user\Desktop\고니\과제 6(우주전쟁 [끝])\Space\Animation.cpp(69,21): warning C4018: '>': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\user\Desktop\고니\과제 6(우주전쟁 [끝])\Space\Animation.cpp(82,66): warning C4244: '인수': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\고니\과제 6(우주전쟁 [끝])\Space\Animation.cpp(82,27): warning C4244: '인수': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\고니\과제 6(우주전쟁 [끝])\Space\Animation.cpp(81,97): warning C4244: '인수': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\고니\과제 6(우주전쟁 [끝])\Space\Animation.cpp(81,58): warning C4244: '인수': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\고니\과제 6(우주전쟁 [끝])\Space\Animation.cpp(89,46): warning C4244: '인수': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\고니\과제 6(우주전쟁 [끝])\Space\Animation.cpp(89,17): warning C4244: '인수': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\고니\과제 6(우주전쟁 [끝])\Space\Animation.cpp(88,67): warning C4244: '인수': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\고니\과제 6(우주전쟁 [끝])\Space\Animation.cpp(88,38): warning C4244: '인수': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  App.cpp
+C:\Users\user\Desktop\고니\과제 6(우주전쟁 [끝])\Space\App.cpp(32,30): warning C4244: '=': 'ULONGLONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\고니\과제 6(우주전쟁 [끝])\Space\App.cpp(40,12): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\고니\과제 6(우주전쟁 [끝])\Space\App.cpp(54,28): warning C4244: '=': 'ULONGLONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Boss.cpp
+  BossBullet.cpp
+  BossPass.cpp
+  BossShot.cpp
+  BossStage.cpp
+  Bullet.cpp
+  ClearScene.cpp
+  CollisionMgr.cpp
+  DeathScene.cpp
+  ExPlainScene.cpp
+  GameMgr.cpp
+C:\Users\user\Desktop\고니\과제 6(우주전쟁 [끝])\Space\GameMgr.cpp(25,22): warning C4244: '=': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\고니\과제 6(우주전쟁 [끝])\Space\GameMgr.cpp(26,22): warning C4244: '=': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\고니\과제 6(우주전쟁 [끝])\Space\GameMgr.cpp(47,20): warning C4244: '=': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\고니\과제 6(우주전쟁 [끝])\Space\GameMgr.cpp(48,20): warning C4244: '=': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\고니\과제 6(우주전쟁 [끝])\Space\GameMgr.cpp(66,19): warning C4244: '=': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\고니\과제 6(우주전쟁 [끝])\Space\GameMgr.cpp(67,19): warning C4244: '=': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  HealItem.cpp
+  Input.cpp
+  InvisibleEnemy.cpp
+  ItemMgr.cpp
+  JunkRatBullet.cpp
+C:\Users\user\Desktop\고니\과제 6(우주전쟁 [끝])\Space\JunkRatBullet.cpp(10,10): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\고니\과제 6(우주전쟁 [끝])\Space\JunkRatBullet.cpp(36,19): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\고니\과제 6(우주전쟁 [끝])\Space\JunkRatBullet.cpp(52,7): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  JunkRatItem.cpp
+  Monster.cpp
+  코드를 생성하고 있습니다...
+  컴파일하고 있습니다...
+  MonsterBullet.cpp
+  NewStage.cpp
+C:\Users\user\Desktop\고니\과제 6(우주전쟁 [끝])\Space\NewStage.cpp(37,7): warning C4101: 'rect' :참조되지 않은 지역 변수입니다.
+  NextStage.cpp
+  NextStageTwo.cpp
+  Object.cpp
+  ObjectMgr.cpp
+  Pass.cpp
+  Player.cpp
+C:\Users\user\Desktop\고니\과제 6(우주전쟁 [끝])\Space\Player.cpp(30,22): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\고니\과제 6(우주전쟁 [끝])\Space\Player.cpp(387,124): warning C4244: '인수': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\고니\과제 6(우주전쟁 [끝])\Space\Player.cpp(387,95): warning C4244: '인수': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\고니\과제 6(우주전쟁 [끝])\Space\Player.cpp(387,66): warning C4244: '인수': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\고니\과제 6(우주전쟁 [끝])\Space\Player.cpp(387,37): warning C4244: '인수': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\고니\과제 6(우주전쟁 [끝])\Space\Player.cpp(516,21): warning C4305: '+=': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\user\Desktop\고니\과제 6(우주전쟁 [끝])\Space\Player.cpp(517,38): warning C4305: '+=': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\user\Desktop\고니\과제 6(우주전쟁 [끝])\Space\Player.cpp(548,22): warning C4305: '-=': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\user\Desktop\고니\과제 6(우주전쟁 [끝])\Space\Player.cpp(550,39): warning C4305: '-=': 'double'에서 'float'(으)로 잘립니다.
+  Ranger.cpp
+C:\Users\user\Desktop\고니\과제 6(우주전쟁 [끝])\Space\Ranger.cpp(19,23): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\고니\과제 6(우주전쟁 [끝])\Space\Ranger.cpp(19,14): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  RankMgr.cpp
+  Renderer.cpp
+C:\Users\user\Desktop\고니\과제 6(우주전쟁 [끝])\Space\Renderer.cpp(45,19): warning C4244: '=': 'float'에서 'UINT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\고니\과제 6(우주전쟁 [끝])\Space\Renderer.cpp(46,20): warning C4244: '=': 'float'에서 'INT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\고니\과제 6(우주전쟁 [끝])\Space\Renderer.cpp(53,19): warning C4244: '=': 'float'에서 'UINT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\고니\과제 6(우주전쟁 [끝])\Space\Renderer.cpp(54,20): warning C4244: '=': 'float'에서 'INT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  ResourceMgr.cpp
+  RipleBullet.cpp
+  RipleItem.cpp
+  SceneDirector.cpp
+  SceneMain.cpp
+  SniperBullet.cpp
+  SniperItem.cpp
+  SoundMgr.cpp
+  Space.cpp
+  코드를 생성하고 있습니다...
+  컴파일하고 있습니다...
+  Sprite.cpp
+  StageTwo.cpp
+  TextFont.cpp
+  Texture.cpp
+  코드를 생성하고 있습니다...
+  Space.vcxproj -> C:\Users\user\Desktop\고니\과제 6(우주전쟁 [끝])\Debug\Space.exe
