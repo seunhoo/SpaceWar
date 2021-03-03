@@ -51,7 +51,7 @@ void BossStage::Render()
 {
 	GameMgr::GetInst()->Render();
 
-	TCHAR szScore[32] = L"";
+	TCHAR szScore[32] = L"12";
 	int Score = RankMgr::GetInst()->GetScore();
 	wsprintf(szScore, L"%d", Score);
 
